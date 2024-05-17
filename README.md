@@ -6,7 +6,7 @@ Demonstrate proficiency in creating an ERD and using SQL to sort through data.
 
 ## Visuals
 
-ERD Screenshot
+see ERD Screenshot.png
 
 ## Authors and acknowledgment
 Code was supported by QuickDBD (https://app.quickdatabasediagrams.com/#/d/HOnrZh), Bootcamp class, class materials and ChatGPT.
